@@ -1,4 +1,4 @@
-# EduTrack — Classroom Attendance Manager 📋
+># EduTrack — Classroom Attendance Manager 📋
 
 A lightweight React Native mobile app that helps teachers in under-resourced schools track student attendance quickly, view daily summaries, and monitor attendance history — all without needing internet access.
 
